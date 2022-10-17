@@ -2,3 +2,4 @@
 Your equation: 3 * 8 = 24
 Your equation: 56 \ 8 = Wrong equation sign!
 Your equation: 25 / 5 = 5.0
+Your equation: 5 - 2 = 3
