@@ -1,2 +1,0 @@
-5 - 2
-Your result = 3
